@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<section xml:id="syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="syllabus">
   <title>Syllabus</title>
 
   <introduction>
@@ -15,13 +14,13 @@
     </p>
   </introduction>
   <!-- Include chapters -->
-  <subsection xml:id="sec-course-info">
+</subsection xml:id="sec-course-info">
     <title>Course Information</title>
 
-    <p>
+  </p>
       This is the syllabus for <term>MUSC 222: Music Technology and Production I</term> for Spring 2026.
       
-      <dl>
+    </dl>
       <li>
         <title>Dr. Christian Gentry</title>
 
@@ -31,15 +30,15 @@
         </p>
       </li>
 
-      <li>
-        <title>Office Hours/title>
+    </li>
+        <title>Office Hours</title>
 
-        <p>
+        
           M, T, W  10:30-11:20; Thur 11:30-12:20 (WL 204 or G-07)
-        </p>
+        
 
-        <p>
-          <alert>Important</alert>: I <em>want</em> to meet with you in office hours, please sign up here <url href= https://framingham.starfishsolutions.com/starfish-ops/dl/instructor/serviceCatalog.html?bookmark=connection/866523/schedule"$1"/>
+        
+          <alert>Important</alert>: I <em>want</em> to meet with you in office hours
          </p>
       </li>
 
@@ -55,7 +54,7 @@
         <title>Course Description</title>
 
         <p>
-          course description from catalog
+          An introduction to the hardware, software, and techniques involved with composing, editing and producing digital music. The primary goal is to gain a working facility and knowledge of fundamental technologies found within a modern music production environment such as digital audio workstation (DAW) software, file management, mixing techniques, sound editing, sequencing, sampling, sound design, and synthesis. Foremost is the creative application of these skills that result in original pieces of music, sound design environments, and emulated modular synthesizer design. 
         </p>
       </li>
 
