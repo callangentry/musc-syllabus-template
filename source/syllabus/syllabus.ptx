@@ -5,7 +5,13 @@
 
   <introduction>
     <p>
-      Lets make some noise and have some fun!!! 
+      An introduction to the hardware, software, and techniques involved with composing, 
+      editing and producing digital music. The primary goal is to gain a working facility 
+      and knowledge of fundamental technologies found within a modern music production environment 
+      such as digital audio workstation (DAW) software, file management, mixing techniques, sound 
+      editing, sequencing, sampling, sound design, and synthesis. Foremost is the creative application 
+      of these skills that result in original pieces of music, sound design environments, and emulated 
+      modular synthesizer design. 
     </p>
   </introduction>
   <!-- Include chapters -->
@@ -13,15 +19,15 @@
     <title>Course Information</title>
 
     <p>
-      This is the syllabus for <term>course name (MATH xxx, section xxx)</term> for semester 20xx.
-      It is a x credit course.
+      This is the syllabus for <term>MUSC 222: Music Technology and Production I</term> for Spring 2026.
+      
       <dl>
       <li>
-        <title>Instructor</title>
+        <title>Dr. Christian Gentry</title>
 
         <p>
           Prof.
-          Lastname, Office Location, <url href="mailto:prof.lastname@example.edu">prof.lastname@example.edu</url>.
+          Gentry, WL 204 <url href="mailto:cgentry@framingham.edu">prof.lastname@example.edu</url>.
         </p>
       </li>
 
